@@ -15,6 +15,8 @@
 - 🌱 Learning Nextjs
 - 👯 Looking to collaborate on web and software development jobs
 
+### ![](./icons/youtube.svg)
+
 ### Project:
 - Spiced Academy
 - profile repo
