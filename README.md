@@ -18,7 +18,9 @@
 ### [![](./icons/youtube.svg)](https://www.youtube.com/watch?v=VTu8CrbssNk)
 
 ### Project:
-- Spiced Academy
-- profile repo
+- Spiced Academy.
+- profile repo.
+- create a repo with same name as account name.
 - create a presentation using Markdown.
+
 
