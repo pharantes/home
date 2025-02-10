@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### i'm Pedro, i like to code and im studying to become a developer.
+#### i'm Pedro, i like to code, im passionate about solving problems and improving solutions.
 
 ![](./icons/css.svg) ![](./icons/html.svg) ![](./icons/js.svg) ![](./icons/code.svg) ![](./icons/react.svg)
 
@@ -8,7 +8,8 @@
 2. CSS<br>
 3. HTML<br>
 4. React<br>
-5. Nextj
+5. Nextjs<br>
+6. Mongo DB
 
 ### About:
 
