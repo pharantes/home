@@ -13,15 +13,11 @@
 
 ### About:
 
-- 🌱 Learning Nextjs
+- 🌱 Learning Nextjs and looking forward to work with it
 - 👯 Looking to collaborate on web and software development jobs
 
-### [![](./icons/youtube.svg)](https://www.youtube.com/watch?v=VTu8CrbssNk)
+### Work experiences
 
-### Project:
-- Spiced Academy.
-- profile repo.
-- create a repo with same name as account name.
-- create a presentation using Markdown.
-
-
+web dev at Freenet digital in 2020
+servicenow consultant from 2021 to 2024
+Looking forward to continue my career on software/web development
