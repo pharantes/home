@@ -1,7 +1,6 @@
 # Site Settings
-title: "Pedro Arantes' CV"
 description: "A comprehensive overview of my professional background and projects."
-url: "https://pharantes.github.io"
+url: "https://pharantes.github.io/home"
 baseurl: ""
 
 # Theme Settings
@@ -23,9 +22,6 @@ author:
   name: "Pedro Arantes"
   email: "your.email@example.com"
 
-# Other Configurations
-markdown: kramdown
-permalink: /:title/
 
 plugins:
   - jekyll-feed
