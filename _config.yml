@@ -1,6 +1,5 @@
 
 # Theme settings
-theme: minima                       # Using the default GitHub Pages theme 'minima'
 skin: dark                        # Customize the theme's appearance (options: 'default', 'dark', etc.)
 
 # Author information
