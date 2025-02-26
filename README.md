@@ -24,7 +24,7 @@
 
 ## Projects
 
-I maintain an active [[GitHub portfolio]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/pharantes))](https://github.com/pharantes) that showcases a diverse collection of projects and coding exercises developed over the years. My portfolio features full-stack applications, front-end projects, and various experimental exercises that highlight my continuous learning and ability to apply modern web development practices to real-world challenges.
+I maintain an active [GitHub portfolio](https://github.com/pharantes) that showcases a diverse collection of projects and coding exercises developed over the years. My portfolio features full-stack applications, front-end projects, and various experimental exercises that highlight my continuous learning and ability to apply modern web development practices to real-world challenges.
 
 ## Languages
 
