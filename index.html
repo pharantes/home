@@ -1,7 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting...</title>
+
   <script>
     // Get the browser's preferred language
     var userLang = navigator.language || navigator.userLanguage;
@@ -19,10 +24,19 @@
     // Redirect the user
     window.location.href = redirectUrl;
   </script>
-  <title>Redirecting...</title>
 </head>
 
 <body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="/home/pt-br/">Português (BR)</a></li>
+        <li><a href="/home/de-de/">Deutsch (DE)</a></li>
+        <li><a href="/home/en-us/">English (US)</a></li>
+      </ul>
+    </nav>
+  </header>
+
   <p>If you are not redirected automatically, follow the <a href="/home/en-us/">link to the English version</a>.</p>
 </body>
 
