@@ -66,14 +66,14 @@ _Remote_
 - Implemented enhancements that improved operational efficiency and streamlined the incident resolution process.  
 - Utilized a proactive approach to problem solving, consistently delivering robust and user-centric solutions.
 
-### freenet digital – Desenvolvedor da Web (Web Developer)  
+### freenet digital – Web Developer
 _Berlim, Germany_  
 **September 2019 – November 2020 (1 year 3 months)**  
 - Supported the commercial department by developing HTML5 email templates, landing pages, and performing both front-end and back-end work for ad-hoc campaigns.  
 - Collaborated with design and marketing teams to ensure digital assets were aligned with business objectives and delivered a seamless user experience.  
 - Actively contributed to the optimization of existing websites, leading to improved performance and engagement.
 
-### vene.io – Desenvolvedor de Front-end (Front-end Developer)  
+### vene.io – Front-end Developer 
 _Berlim, Germany_  
 **March 2020 – August 2020 (6 months)**  
 - Designed and developed the website venedash.io, implementing new features based on evolving client requirements.  
