@@ -24,7 +24,7 @@
 
 ## Projects
 
-I maintain an active [GitHub portfolio](https://github.com/YOUR_GITHUB_USERNAME) that showcases a diverse collection of projects and coding exercises developed over the years. My portfolio features full-stack applications, front-end projects, and various experimental exercises that highlight my continuous learning and ability to apply modern web development practices to real-world challenges.
+I maintain an active [[GitHub portfolio]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/pharantes))](https://github.com/pharantes) that showcases a diverse collection of projects and coding exercises developed over the years. My portfolio features full-stack applications, front-end projects, and various experimental exercises that highlight my continuous learning and ability to apply modern web development practices to real-world challenges.
 
 ## Languages
 
@@ -76,7 +76,7 @@ _Berlim, Alemanha_
 ### vene.io – Desenvolvedor de Front-end (Front-end Developer)  
 _Berlim, Alemanha_  
 **March 2020 – August 2020 (6 months)**  
-- Designed and developed the website [venedash.io](https://venedash.io) from scratch, implementing new features based on evolving client requirements.  
+- Designed and developed the website venedash.io, implementing new features based on evolving client requirements.  
 - Ensured responsive design and robust functionality, driving enhanced user interaction and satisfaction.  
 - Collaborated closely with cross-functional teams to deliver a product that met both technical standards and business goals.
 
