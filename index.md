@@ -67,21 +67,21 @@ _Remote_
 - Utilized a proactive approach to problem solving, consistently delivering robust and user-centric solutions.
 
 ### freenet digital – Desenvolvedor da Web (Web Developer)  
-_Berlim, Alemanha_  
+_Berlim, Germany_  
 **September 2019 – November 2020 (1 year 3 months)**  
 - Supported the commercial department by developing HTML5 email templates, landing pages, and performing both front-end and back-end work for ad-hoc campaigns.  
 - Collaborated with design and marketing teams to ensure digital assets were aligned with business objectives and delivered a seamless user experience.  
 - Actively contributed to the optimization of existing websites, leading to improved performance and engagement.
 
 ### vene.io – Desenvolvedor de Front-end (Front-end Developer)  
-_Berlim, Alemanha_  
+_Berlim, Germany_  
 **March 2020 – August 2020 (6 months)**  
 - Designed and developed the website venedash.io, implementing new features based on evolving client requirements.  
 - Ensured responsive design and robust functionality, driving enhanced user interaction and satisfaction.  
 - Collaborated closely with cross-functional teams to deliver a product that met both technical standards and business goals.
 
 ### Ironhack – Student  
-_Berlin e Região, Alemanha_  
+_Berlin, Germany_  
 **January 2019 – March 2019 (3 months)**  
 - Established the development environment and collaborated on projects using GitHub, honing skills in version control and team collaboration.  
 - Learned and applied key concepts in JavaScript algorithms, HTML5/CSS3 interface creation, and jQuery for dynamic web interactions.  
