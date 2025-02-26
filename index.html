@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Redirecting...</title>
+  <title>Pedro Arantes CV</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -37,23 +37,27 @@
       text-decoration: underline;
     }
   </style>
-  </style>
   <script>
-    // Get the browser's preferred language
-    var userLang = navigator.language || navigator.userLanguage;
+    document.addEventListener('DOMContentLoaded', function () {
+      // Check if we're already on a language-specific page
+      if (!window.location.pathname.startsWith('/home/')) {
+        // Get the browser's preferred language
+        var userLang = navigator.language || navigator.userLanguage;
 
-    // Define supported languages and their paths
-    var languageMap = {
-      "pt-BR": "/home/pt-br/",
-      "de-DE": "/home/de-de/",
-      "en-US": "/home/en-us/"
-    };
+        // Define supported languages and their paths
+        var languageMap = {
+          "pt-BR": "/home/pt-br/",
+          "de-DE": "/home/de-de/",
+          "en-US": "/home/en-us/"
+        };
 
-    // Default to English if the language is not in the map
-    var redirectUrl = languageMap[userLang] || "/home/";
+        // Default to English if the language is not in the map
+        var redirectUrl = languageMap[userLang] || "/home/";
 
-    // Redirect the user
-    window.location.href = redirectUrl;
+        // Redirect the user
+        window.location.href = redirectUrl;
+      }
+    });
   </script>
 </head>
 
@@ -62,13 +66,12 @@
     <h1>Choose a language</h1>
     <nav>
       <ul>
-        <li><a href="/home/pt-br/">Português (BR)</a></li>
-        <li><a href="/home/de-de/">Deutsch (DE)</a></li>
-        <li><a href="/home/en-us/">English (US)</a></li>
+        <li><a href="/home/pt-br/" onclick="window.location.href='/home/pt-br/'; return false;">Português (BR)</a></li>
+        <li><a href="/home/de-de/" onclick="window.location.href='/home/de-de/'; return false;">Deutsch (DE)</a></li>
+        <li><a href="/home/en-us/" onclick="window.location.href='/home/en-us/'; return false;">English (US)</a></li>
       </ul>
     </nav>
   </header>
-
 </body>
 
 </html>
