@@ -1,14 +1,4 @@
-# Site Settings
-description: "A comprehensive overview of my professional background and projects."
-url: "https://pharantes.github.io/home"
-baseurl: ""
 
-# Theme Settings
-theme: minima
-minima:
-  skin: dark
-
-# Navigation
 nav:
   - title: "Português (BR)"
     url: "/pt-br/"
@@ -17,20 +7,6 @@ nav:
   - title: "English (US)"
     url: "/en-us/"
 
-# Author Information
-author:
-  name: "Pedro Arantes"
-  email: "your.email@example.com"
-
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
 
 social:
   linkedin: "https://www.linkedin.com/in/pedro-arantes-a88099140/"
