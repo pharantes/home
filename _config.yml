@@ -8,20 +8,6 @@ author:
   name: "Pedro Arantes"             # Your name as you want it displayed
   email: "p.arantes@protonmail.com"   # Your contact email
 
-# Markdown & Permalinks
-markdown: kramdown                  # The markdown processor (GitHub Pages uses kramdown by default)
-permalink: /:title/                 # A permalink structure that uses your page's title
-
-# Plugins (if you plan to add extra functionality)
-plugins:
-  - jekyll-feed                     # Generates an RSS feed (optional)
-  - jekyll-seo-tag                  # Helps with search engine optimization (optional)
-
-# Exclude files from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-
 # Other customization options
 # You can define custom variables to use in your layouts, for example:
 social:
