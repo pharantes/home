@@ -1,7 +1,15 @@
+# Site Settings
+title: "Pedro Arantes' CV"
+description: "A comprehensive overview of my professional background and projects."
+url: "https://pharantes.github.io"
+baseurl: ""
 
-# Theme settings
-skin: dark                        # Customize the theme's appearance (options: 'default', 'dark', etc.)
+# Theme Settings
+theme: minima
+minima:
+  skin: dark
 
+# Navigation
 nav:
   - title: "Português (BR)"
     url: "/pt-br/"
@@ -9,8 +17,24 @@ nav:
     url: "/de-de/"
   - title: "English (US)"
     url: "/en-us/"
-# Author information
-author:
-  name: "Pedro Arantes"             # Your name as you want it displayed
-  email: "p.arantes@protonmail.com"   # Your contact email
 
+# Author Information
+author:
+  name: "Pedro Arantes"
+  email: "your.email@example.com"
+
+# Other Configurations
+markdown: kramdown
+permalink: /:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+social:
+  linkedin: "https://www.linkedin.com/in/pedro-arantes-a88099140/"
