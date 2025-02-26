@@ -2,6 +2,13 @@
 # Theme settings
 skin: dark                        # Customize the theme's appearance (options: 'default', 'dark', etc.)
 
+nav:
+  - title: "Português (BR)"
+    url: "/pt-br/"
+  - title: "Deutsch (DE)"
+    url: "/de-de/"
+  - title: "English (US)"
+    url: "/en-us/"
 # Author information
 author:
   name: "Pedro Arantes"             # Your name as you want it displayed
