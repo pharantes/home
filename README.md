@@ -1,5 +1,6 @@
 # Hi there 👋
-#### i'm Pedro, full-stack web developer with 5 years of diverse experience spanning both web development and enterprise service solutions. I began my career as a Junior Web Developer at Freenet Digital before transitioning into ServiceNow roles at ProV Brasil, DXC Technology, and Proturity GmbH—where I contributed to major projects for clients like Gerdau. Recently, I completed an intensive 3-month Next.js bootcamp to refresh and enhance my full-stack web development skills. I am now eager to leverage my broad technical background and agile problem-solving in a dedicated web development role.
+
+ i'm Pedro, full-stack web developer with 5 years of diverse experience spanning both web development and enterprise service solutions. I began my career as a Junior Web Developer at Freenet Digital before transitioning into ServiceNow roles at ProV Brasil, DXC Technology, and Proturity GmbH—where I contributed to major projects for clients like Gerdau. Recently, I completed an intensive 3-month Next.js bootcamp to refresh and enhance my full-stack web development skills. I am now eager to leverage my broad technical background and agile problem-solving in a dedicated web development role.
 
 ![](./icons/css.svg) ![](./icons/html.svg) ![](./icons/js.svg) ![](./icons/code.svg) ![](./icons/react.svg)
 
