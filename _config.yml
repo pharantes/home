@@ -1,0 +1,46 @@
+# Site settings
+title: "Pedro Arantes' CV"        # The title of your site
+description: "A comprehensive overview of my professional background and projects."  # A short description of your site
+url: "https://pharantes.github.io"  # Your site's URL; for a user site, this is usually your GitHub Pages URL
+baseurl: ""                         # If your site is hosted at the root (e.g., pharantes.github.io), leave this empty. If it's in a subfolder (e.g., /cv), set it accordingly.
+
+# Theme settings
+theme: minima                       # Using the default GitHub Pages theme 'minima'
+minima:
+  skin: dark                        # Customize the theme's appearance (options: 'default', 'dark', etc.)
+
+# Author information
+author:
+  name: "Pedro Arantes"             # Your name as you want it displayed
+  email: "your.email@example.com"   # Your contact email
+
+# Markdown & Permalinks
+markdown: kramdown                  # The markdown processor (GitHub Pages uses kramdown by default)
+permalink: /:title/                 # A permalink structure that uses your page's title
+
+# Navigation (if supported by the theme)
+# For example, you can define a custom navigation bar
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Plugins (if you plan to add extra functionality)
+plugins:
+  - jekyll-feed                     # Generates an RSS feed (optional)
+  - jekyll-seo-tag                  # Helps with search engine optimization (optional)
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Other customization options
+# You can define custom variables to use in your layouts, for example:
+social:
+  twitter: your_twitter_handle
+  linkedin: https://www.linkedin.com/in/pedro-arantes-a88099140/
