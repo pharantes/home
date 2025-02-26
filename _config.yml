@@ -13,16 +13,6 @@ author:
 markdown: kramdown                  # The markdown processor (GitHub Pages uses kramdown by default)
 permalink: /:title/                 # A permalink structure that uses your page's title
 
-# Navigation (if supported by the theme)
-# For example, you can define a custom navigation bar
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "Contact"
-    url: "/contact/"
-
 # Plugins (if you plan to add extra functionality)
 plugins:
   - jekyll-feed                     # Generates an RSS feed (optional)
