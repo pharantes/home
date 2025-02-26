@@ -1,4 +1,4 @@
-
+baseurl: "/home"
 nav:
   - title: "Português (BR)"
     url: "/pt-br/"
