@@ -2,15 +2,28 @@
 <html>
 
 <head>
-  <meta http-equiv="refresh" content="0; url=/home/en-us/" />
+  <script>
+    // Get the browser's preferred language
+    var userLang = navigator.language || navigator.userLanguage;
+
+    // Define supported languages and their paths
+    var languageMap = {
+      "pt-BR": "/home/pt-br/",
+      "de-DE": "/home/de-de/",
+      "en-US": "/home/en-us/"
+    };
+
+    // Default to English if the language is not in the map
+    var redirectUrl = languageMap[userLang] || "/home/en-us/";
+
+    // Redirect the user
+    window.location.href = redirectUrl;
+  </script>
   <title>Redirecting...</title>
 </head>
 
 <body>
   <p>If you are not redirected automatically, follow the <a href="/home/en-us/">link to the English version</a>.</p>
 </body>
-<footer>
-  <p>© 2025 Pedro Arantes. All rights reserved.</p>
-</footer>
 
 </html>
